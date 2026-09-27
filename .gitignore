@@ -1,0 +1,7 @@
+__pycache__/
+*.class
+classes/
+APDescription.txt
+MTPs-Main-Container.txt
+.DS_Store
+Thumbs.db
